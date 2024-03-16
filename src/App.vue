@@ -73,6 +73,9 @@ nav a:first-of-type {
     flex-wrap: wrap;
   }
 
+  header {
+    display: flex;
+  }
   nav {
     text-align: left;
     margin-left: -1rem;
